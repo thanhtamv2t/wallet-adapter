@@ -62,5 +62,8 @@
         "@ledgerhq/hw-transport": "6.27.1",
         "@ledgerhq/hw-transport-webhid": "6.27.1",
         "eslint": "8.22.0"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.66.2"
     }
 }
